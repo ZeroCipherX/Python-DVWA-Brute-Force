@@ -16,7 +16,7 @@ Before you can use this script, make sure you have the following dependencies in
 You can install the necessary libraries using `pip`:
 
 bash
-pip install requests termcolor
+```pip install requests termcolor```
 
 - Python 3
 - Dependencies: `requests`, `termcolor`
@@ -29,7 +29,7 @@ python brute_force.py
 
 Run the script using the following command:
 
-python brute_force.py
+python 48-bruteforce.py
 
 Follow the prompts to provide the required information:
 
