@@ -19,7 +19,7 @@ You can install the necessary libraries using pip:
 ```bash
 pip install requests termcolor
 ```
-***Usage**
+**Usage**
 
 Clone this repository to your local machine.
 Navigate to the directory containing the script.
@@ -32,7 +32,7 @@ Password File: Provide the path to a file containing a list of passwords to try.
 Login Failed String: Enter a string that indicates a failed login attempt (e.g., an error message).
 The script will attempt to brute-force the login page using the provided information. If it successfully finds the correct username and password, it will display them.
 
-Disclaimer
+## Disclaimer
 This script is for educational purposes only. It should only be used on systems and applications that you have explicit permission to test. Unauthorized use of this script is illegal and unethical.
 
 Use this script responsibly and in compliance with applicable laws and regulations.
